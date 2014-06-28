@@ -2,6 +2,6 @@ package main;
 
 public class Teste {
 	
-	String teste = "Testando o commit com gitHub";
+	String teste = "Testando o commite com gitHub";
 
 }
